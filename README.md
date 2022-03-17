@@ -1,6 +1,7 @@
 ## Olá! Eu sou a Matheus Rocha
 
 - 🔭 Hoje trabalho com front-end
+- 📚 Cursando Desenvolvimento de Sistemas
 - 🌱 Estudando ReactJs
 
 <div>
