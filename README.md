@@ -2,7 +2,7 @@
 
 - 🔭 Front-End Dev
 - 📚 Cursando Desenvolvimento de Sistemas
-- 🌱 Estudando ReactJs
+- 🌱 Learning ReactJs
 
 <div>
   <a href="https://github/MatheusR-Dev">
