@@ -24,4 +24,9 @@
   <a href="https://instagram.com/matheusfelipelr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-Generate a [gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif)
+ # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk@master
+        with:
+          github_user_name: ${{ github.MatheusR-Dev }}
+          svg_out_path: dist/github-contribution-grid-snake.svg
