@@ -18,7 +18,7 @@
   <img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Matheus-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-  <img src="https://user-images.githubusercontent.com/62509668/139310543-657db66d-86ab-4e93-a470-4a96c5813e75.gif" min-width="100px" max-width="100px" width="100px" align="right" alt="Dev Matheus">
+  <img src="https://user-images.githubusercontent.com/62509668/139310543-657db66d-86ab-4e93-a470-4a96c5813e75.gif" min-width="200px" max-width="200px" width="200px" align="right" alt="Dev Matheus">
   
 ##
   
