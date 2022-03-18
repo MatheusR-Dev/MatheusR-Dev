@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusR-Dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusR-Dev&layout=compact&langs_count=16&theme=dark"/>
 </div>
-<div align="center" style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Matheus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -19,7 +19,7 @@
   <img align="center" alt="Matheus-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
-  <img align="right" alt="Matheus-Csharp" height="200" width="300" src="https://user-images.githubusercontent.com/68398315/159033936-c0cb5e21-dcfb-48dc-a4cc-4913c06766b8.gif">
+  <img style="border: 1px solid black, border-radius: 30px" align="right" alt="Matheus-Csharp" height="200" width="300" src="https://user-images.githubusercontent.com/68398315/159033936-c0cb5e21-dcfb-48dc-a4cc-4913c06766b8.gif">
 
 ##
   
