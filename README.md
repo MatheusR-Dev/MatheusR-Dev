@@ -19,7 +19,7 @@
   <img align="center" alt="Matheus-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
-  <img align="right" alt="Matheus-Csharp" height="100" width="200" src="https://user-images.githubusercontent.com/68398315/159033936-c0cb5e21-dcfb-48dc-a4cc-4913c06766b8.gif">
+  <img align="right" alt="Matheus-Csharp" border="1px solid black" border-radius="30px" height="200" width="300" src="https://user-images.githubusercontent.com/68398315/159033936-c0cb5e21-dcfb-48dc-a4cc-4913c06766b8.gif">
 
 ##
   
