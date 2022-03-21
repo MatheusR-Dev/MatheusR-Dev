@@ -1,7 +1,6 @@
 ## Olá! Eu sou Matheus Rocha
 - :computer: I'm Front-End Developer!
 - :house_with_garden: I’m from Brazil.
-- :books: I’m currently learning everything.
 - 📚 Studying Systems Development
 - 🌱 Learning ReactJs
 <div>
