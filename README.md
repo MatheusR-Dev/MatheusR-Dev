@@ -1,13 +1,8 @@
 ## Olá! Eu sou Matheus Rocha
 - :computer: I'm Front-End Developer!
-
 - :house_with_garden: I’m from Brazil.
-
 - :books: I’m currently learning everything.
-
-- :outbox_tray: 2021 Goals: create a new project and find a new job.
-- 🔭 Front-End Dev
-- 📚 Cursando Desenvolvimento de Sistemas
+- 📚 Studying Systems Development
 - 🌱 Learning ReactJs
 <div>
   <a href="https://github.com/MatheusR-Dev">
