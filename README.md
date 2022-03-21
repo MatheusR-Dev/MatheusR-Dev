@@ -3,10 +3,10 @@
 - 🔭 Front-End Dev
 - 📚 Cursando Desenvolvimento de Sistemas
 - 🌱 Learning ReactJs
-
+![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusR-Dev&show_icons=true&theme=radical)
 <div>
   <a href="https://github.com/MatheusR-Dev">
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusR-Dev&show_icons=true&theme=radical)
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusR-Dev&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
