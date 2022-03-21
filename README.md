@@ -1,4 +1,4 @@
-![Matheus](https://user-images.githubusercontent.com/68398315/159296487-ed8a6d86-54b9-4df0-83dd-c5c6e0411188.svg)
+<img align="center" alt="Matheus Banner" height="30" width="80" src="https://user-images.githubusercontent.com/68398315/159296487-ed8a6d86-54b9-4df0-83dd-c5c6e0411188.svg"/>
 
 
 - 🔭 Front-End Dev
