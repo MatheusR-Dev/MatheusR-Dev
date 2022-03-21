@@ -4,7 +4,6 @@
 - :books: I’m currently learning everything.
 - 📚 Studying Systems Development
 - 🌱 Learning ReactJs
-- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MatheusR-Dev)](https://github.com/MatheusR-Dev)
 <div>
   <a href="https://github.com/MatheusR-Dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusR-Dev&show_icons=true&theme=github_dark"/>
@@ -26,6 +25,7 @@
   
 <div>
   <a href="https://instagram.com/matheusfelipelr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MatheusR-Dev" target="_blank"></a>
 </div>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
