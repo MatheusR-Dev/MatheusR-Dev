@@ -1,4 +1,4 @@
-## Hi! I'm Matheus Rocha
+## Olá! Eu sou Matheus Rocha
 - :computer: I'm Front-End Developer!
 - :house_with_garden: I’m from Brazil.
 - :books: I’m currently learning everything.
