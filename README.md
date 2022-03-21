@@ -1,5 +1,4 @@
-<img align="center" alt="Matheus Banner" height="100px" width="100%" src="https://user-images.githubusercontent.com/68398315/159296487-ed8a6d86-54b9-4df0-83dd-c5c6e0411188.svg"/>
-
+## Olá! Eu sou Matheus Rocha
 
 - 🔭 Front-End Dev
 - 📚 Cursando Desenvolvimento de Sistemas
