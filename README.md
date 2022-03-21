@@ -4,6 +4,7 @@
 - :books: I’m currently learning everything.
 - 📚 Studying Systems Development
 - 🌱 Learning ReactJs
+- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MatheusR-Dev)](https://github.com/MatheusR-Dev)
 <div>
   <a href="https://github.com/MatheusR-Dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusR-Dev&show_icons=true&theme=github_dark"/>
