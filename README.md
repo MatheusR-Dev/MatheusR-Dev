@@ -7,6 +7,8 @@
   <a href="https://github.com/MatheusR-Dev">
   <img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusR-Dev&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusR-Dev&show_icons=true&theme=github_dark"/>
+</div>
+<div>
   <img src="https://activity-graph.herokuapp.com/graph?username=MatheusR-Dev&theme=redical">
 </div>
 <div style="display: inline_block"><br>
