@@ -5,8 +5,8 @@
 - 🌱 Learning ReactJs
 <div>
   <a href="https://github.com/MatheusR-Dev">
-  <img align="right"height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusR-Dev&show_icons=true&theme=github_dark"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusR-Dev&layout=compact&langs_count=16&theme=github_dark"/>
+  <img align="right"height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusR-Dev&show_icons=true&theme=github_dark"/>
   <img src="https://activity-graph.herokuapp.com/graph?username=MatheusR-Dev&theme=redical">
 </div>
 <div style="display: inline_block"><br>
