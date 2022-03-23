@@ -8,7 +8,8 @@
   <img align="left" height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusR-Dev&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
   <img align="right" height="155em" src="https://github-readme-stats.vercel.app/api?username=MatheusR-Dev&show_icons=true&theme=radical"/>
 </div>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngset.com%2Fdownload-free-png-hrprk&psig=AOvVaw2JSgWZx8PHICecJeKAZzPb&ust=1648163879619000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCODm-4ev3fYCFQAAAAAdAAAAABAD">
+  ![Diameter-line](https://user-images.githubusercontent.com/68398315/159812242-0439c610-9a7d-4010-9349-b534a0f83c68.png)
+
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=MatheusR-Dev&theme=redical">
 </p>
