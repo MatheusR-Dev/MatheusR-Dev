@@ -9,11 +9,7 @@
   <img align="right" height="155em" src="https://github-readme-stats.vercel.app/api?username=MatheusR-Dev&show_icons=true&theme=radical"/>
 </div>
  
-<hr></hr> 
-<hr></hr>
-<hr></hr> 
-<hr></hr>
-<hr width="100%"></hr> 
+<hr width="100%" padding-top="50px"></hr> 
   
 <p>
   <img src="https://activity-graph.herokuapp.com/graph?username=MatheusR-Dev&theme=redical">
