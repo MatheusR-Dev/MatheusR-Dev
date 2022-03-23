@@ -10,6 +10,7 @@
 </div>
  
 <hr></hr> 
+<hr></hr> 
   
 <p>
   <img src="https://activity-graph.herokuapp.com/graph?username=MatheusR-Dev&theme=redical">
