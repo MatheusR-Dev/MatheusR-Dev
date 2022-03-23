@@ -8,7 +8,7 @@
   <img align="left" height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusR-Dev&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
   <img align="right" height="155em" src="https://github-readme-stats.vercel.app/api?username=MatheusR-Dev&show_icons=true&theme=radical"/>
 </div>
-  <img height="1em" width="100%" src="https://user-images.githubusercontent.com/68398315/159812242-0439c610-9a7d-4010-9349-b534a0f83c68.png"/>
+  <img height="2em" width="100%" src="https://user-images.githubusercontent.com/68398315/159812242-0439c610-9a7d-4010-9349-b534a0f83c68.png"/>
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=MatheusR-Dev&theme=redical">
 </p>
