@@ -13,7 +13,7 @@
 <hr width="100%" align="center"></hr> 
   
 <p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=MatheusR-Dev&theme=radical">
+  <img src="https://activity-graph.herokuapp.com/graph?username=MatheusR-Dev&theme=redical">
 </p>
 
 <div style="display: inline_block"><br>
