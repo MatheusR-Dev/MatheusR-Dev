@@ -9,7 +9,7 @@
   <img align="right" height="155em" src="https://github-readme-stats.vercel.app/api?username=MatheusR-Dev&show_icons=true&theme=github_dark"/>
 </div>
   
-<p>
+<p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=MatheusR-Dev&theme=redical">
 </p>
 <div style="display: inline_block"><br>
