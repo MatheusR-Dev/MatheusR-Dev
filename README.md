@@ -24,12 +24,6 @@
   
   <img style="margin-right: 20px" align="right" alt="Matheus-Csharp" height="200" width="300" src="https://user-images.githubusercontent.com/68398315/159033936-c0cb5e21-dcfb-48dc-a4cc-4913c06766b8.gif">
 
-## Pinned Repositories
-
-<a href="https://github.com/MatheusR-Dev/ng-limeade">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusR-Dev&repo=Hexa-Clone&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
 ##
   
 <div>
@@ -37,4 +31,10 @@
 </div>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
+
+## Pinned Repositories
+
+<a href="https://github.com/MatheusR-Dev/ng-limeade">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusR-Dev&repo=Hexa-Clone&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
