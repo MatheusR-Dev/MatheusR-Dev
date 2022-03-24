@@ -1,7 +1,4 @@
 ## Olá! Eu sou Matheus Rocha
-
-![68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f70686f746f732f696d616765732f3230323131303331313932343834342e706e67](https://user-images.githubusercontent.com/68398315/159965657-4beec4d9-fdf1-46cf-87df-844bc356c761.png)
-
 - :computer: I'm Front-End Developer!
 - :house_with_garden: I’m from Brazil.
 - 📚 Studying Systems Development
@@ -14,6 +11,8 @@
 </div>
 
 <hr width="100%" align="center">
+  
+![68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f70686f746f732f696d616765732f3230323131303331313932343834342e706e67](https://user-images.githubusercontent.com/68398315/159965657-4beec4d9-fdf1-46cf-87df-844bc356c761.png)
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
