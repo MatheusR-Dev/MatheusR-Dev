@@ -31,3 +31,14 @@
 </div>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
+<h1 align="center">Hi 👋, I'm Matheus Rocha</h1>
+<h3 align="center">Front-End Developer From Brazil</h3>
+
+- 🌱 I’m currently learning **ReactJs**
+
+- 📫 How to reach me **matheusfelipelr@hotmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
