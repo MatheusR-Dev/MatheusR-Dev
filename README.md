@@ -32,7 +32,7 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
-## Pinned Repositories
+## Pinned Repositories 📌
 
 <a href="https://github.com/MatheusR-Dev/Hexa-Clone">
   <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusR-Dev&repo=Hexa-Clone&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
