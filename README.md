@@ -38,6 +38,8 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusR-Dev&repo=Hexa-Clone&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
+<hr>
+
 <a align="right" href="https://github.com/MatheusR-Dev/ng-limeade">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusR-Dev&repo=Address-Tracker&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
