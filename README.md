@@ -12,7 +12,7 @@
   <img align="left" height="155em" src="https://github-readme-stats.vercel.app/api?username=MatheusR-Dev&show_icons=true&theme=tokyonight"/>
 </div>
 
-## 
+##                                                                                                                                                                
   
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=MatheusR-Dev&theme=redical">
@@ -39,10 +39,6 @@
 </div>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=ritik307&theme=redical">
-</p> 
   
 ## Pinned Repositories 📌
 
