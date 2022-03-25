@@ -21,7 +21,7 @@
 <hr width="100%" height="0.1px">
   
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=MatheusR-Dev&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=MatheusR-Dev&theme=tokyonight">
 </p> 
   
 <div style="display: inline_block"><br>
