@@ -2,7 +2,7 @@
 
 ![68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f70686f746f732f696d616765732f3230323131303331313932343834342e706e67](https://user-images.githubusercontent.com/68398315/159965657-4beec4d9-fdf1-46cf-87df-844bc356c761.png)
 
-- :computer: Front-End Developer!
+- :computer: <b> Front-End Developer! </b>
 - :house_with_garden: Brazil.
 - 📚 Systems Development
 - 🌱 Learning ReactJs
