@@ -3,14 +3,16 @@
 - :house_with_garden: I’m from Brazil.
 - 📚 Studying Systems Development
 - 🌱 Learning ReactJs
-<p>
+<div>
   <a href="https://github.com/MatheusR-Dev">
   <img align="right" height="310em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusR-Dev&hide=html,css,java,shaderlab,kotlin,hlsl&theme=tokyonight">
 
   <img align="left" height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusR-Dev&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
 
   <img align="left" height="155em" src="https://github-readme-stats.vercel.app/api?username=MatheusR-Dev&show_icons=true&theme=tokyonight"/>
-</p>
+</div>
+
+## ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
   
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=MatheusR-Dev&theme=redical">
