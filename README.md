@@ -12,7 +12,7 @@
   <img align="left" height="155em" src="https://github-readme-stats.vercel.app/api?username=MatheusR-Dev&show_icons=true&theme=tokyonight"/>
 </div>
 
-<div width="100%" style="border: 0.5px solid white"/>
+<div width="100%" style="border: 0.5px solid white">a</div>
   
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=MatheusR-Dev&theme=redical">
