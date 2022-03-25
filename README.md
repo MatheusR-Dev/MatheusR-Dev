@@ -11,11 +11,11 @@
 
 <div>
   <a href="https://github.com/MatheusR-Dev">
-  <img align="right" height="310em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusR-Dev&hide=html,css,java,shaderlab,kotlin,hlsl&theme=dracula">
+  <img align="right" height="310em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusR-Dev&hide=html,css,java,shaderlab,kotlin,hlsl&theme=vision-friendly-dark">
 
-  <img align="left" height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusR-Dev&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
+  <img align="left" height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusR-Dev&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&line_height=0" />
 
-  <img align="left" height="155em" src="https://github-readme-stats.vercel.app/api?username=MatheusR-Dev&show_icons=true&theme=tokyonight"/>
+  <img align="left" height="155em" src="https://github-readme-stats.vercel.app/api?username=MatheusR-Dev&show_icons=true&theme=vision-friendly-dark"/>
 </div>
 
 <hr width="100%" height="0.1px">
