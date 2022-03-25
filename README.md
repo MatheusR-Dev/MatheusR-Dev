@@ -10,9 +10,7 @@
   <img align="left" height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusR-Dev&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
     
   <img align="left" height="155em" src="https://github-readme-stats.vercel.app/api?username=MatheusR-Dev&show_icons=true&theme=tokyonight"/>
-</div>
-
-##                                                                                                                                                                                                                                                                                                                             
+</div>                                                                                                                                                           
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=MatheusR-Dev&theme=redical">
 </p> 
