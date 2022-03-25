@@ -36,6 +36,10 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=ritik307&theme=redical">
+</p> 
+  
 ## Pinned Repositories 📌
 
 <a href="https://github.com/MatheusR-Dev/Hexa-Clone">
