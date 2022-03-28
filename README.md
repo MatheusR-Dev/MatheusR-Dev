@@ -18,15 +18,7 @@
   <img align="left" height="155em" src="https://github-readme-stats.vercel.app/api?username=MatheusR-Dev&show_icons=true&theme=gotham"/>
 </div>
 
-| <img align="left" height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusR-Dev&show_icons=true&locale=en&layout=compact&theme=gotham&line_height=0" />             | <img align="right" height="310em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusR-Dev&hide=html,css,java,shaderlab,kotlin,hlsl&theme=gotham">                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img align="left" height="155em" src="https://github-readme-stats.vercel.app/api?username=MatheusR-Dev&show_icons=true&theme=gotham"/> |
-
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
--------
-
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
   
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=MatheusR-Dev&theme=gotham">
