@@ -5,7 +5,7 @@
 - :computer: <b> Front-End Developer! </b>
 - :house_with_garden: <b> Brazil. </b>
 - 📚 <b> Systems Development </b>
-- 🌱 <b> Learning ReactJs </b>
+- 📖 <b> Learning ReactJs </b>
 
 ## GitHub Stats 
 
