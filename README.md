@@ -9,7 +9,7 @@
 
 ## GitHub Stats 
 
-<div>
+<div width="100%">
   <a href="https://github.com/MatheusR-Dev">
   <img align="right" height="310em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusR-Dev&hide=html,css,java,shaderlab,kotlin,hlsl&theme=gotham">
 
