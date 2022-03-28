@@ -9,7 +9,7 @@
 
 ## GitHub Stats 
 
-<div width="100%">
+<div>
   <a href="https://github.com/MatheusR-Dev">
   <img align="right" height="310em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusR-Dev&hide=html,css,java,shaderlab,kotlin,hlsl&theme=gotham">
 
@@ -18,26 +18,7 @@
   <img align="left" height="155em" src="https://github-readme-stats.vercel.app/api?username=MatheusR-Dev&show_icons=true&theme=gotham"/>
 </div>
   
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <hr>
- 
+<hr align="right">
   
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=MatheusR-Dev&theme=gotham">
