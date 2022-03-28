@@ -17,8 +17,6 @@
 
   <img align="left" height="155em" src="https://github-readme-stats.vercel.app/api?username=MatheusR-Dev&show_icons=true&theme=gotham"/>
 </div>
-
-![Straight_line](https://user-images.githubusercontent.com/68398315/160446964-194a68be-d4ba-49bb-9d67-9a98a058ff13.jpeg)
   
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=MatheusR-Dev&theme=gotham">
