@@ -18,10 +18,25 @@
   <img align="left" height="155em" src="https://github-readme-stats.vercel.app/api?username=MatheusR-Dev&show_icons=true&theme=gotham"/>
 </div>
   
-<hr>
-<hr>
-<hr>
-  <hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <hr>
  
   
 <p align = "center">
