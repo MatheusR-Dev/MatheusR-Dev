@@ -7,7 +7,7 @@
 - 📚 <b> Systems Development </b>
 - 📖 <b> Learning ReactJs </b>
 
-## GitHub Stats 📈
+## GitHub Stats 📊
 
 <div>
   <a href="https://github.com/MatheusR-Dev">
