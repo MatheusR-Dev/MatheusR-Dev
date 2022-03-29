@@ -19,8 +19,7 @@
 </div>
 
 <br/>
-  
-  
+    
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=MatheusR-Dev&theme=gotham"/> 
   
 <div style="display: inline_block"><br>
