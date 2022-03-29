@@ -18,7 +18,8 @@
   <img align="left" height="155em" src="https://github-readme-stats.vercel.app/api?username=MatheusR-Dev&show_icons=true&theme=gotham"/>
 </div>
 
-<hr width="100%" size="1"/>
+<br/>
+  
   
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=MatheusR-Dev&theme=gotham"/> 
   
