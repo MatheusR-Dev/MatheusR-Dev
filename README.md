@@ -20,7 +20,7 @@
   
 <br/>
     
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=MatheusR-Dev&theme=gotham"/> 
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=MatheusR-Dev&theme=gotham"/> 
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
